@@ -1,0 +1,14 @@
+# PowerPoint AI Agent Requirements
+
+# Microsoft Agent Framework (requires --pre flag during preview)
+agent-framework-azure-ai --pre
+
+# PowerPoint manipulation
+python-pptx
+
+# Standard libraries (usually included with Python)
+asyncio
+os
+typing
+datetime
+json
